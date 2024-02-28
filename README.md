@@ -1,16 +1,14 @@
-### Hi there 👋
+## Oiii, eu sou a Jeniffer Moraes!
 
-<!--
-**Jenismoraes/Jenismoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingressei no primeiro semestre da faculdade engenharia de software na FIAP! 
 
-Here are some ideas to get you started:
+- ✨ I’m currently working on social midia, e design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/jeniss_moraes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jenimoraeslima89@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeniffer-moraes-15bba4277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
